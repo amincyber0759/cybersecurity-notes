@@ -1,1 +1,146 @@
 
+
+PART 1: INTRODUCTION TO ICT
+
+### What is ICT?
+**Information and Communication Technology (ICT)** is the use of technology
+to collect, store, process and share information through computers and networks.
+
+### Components of ICT
+- Hardware – Physical devices (computer, printer, mouse)
+- Software – Programs and apps (Word, Chrome)
+- Data – Facts processed into useful information
+- Network – Internet, Wi-Fi, LAN
+
+### Input and Output Devices
+**Input:** Keyboard, Mouse, Scanner, Microphone
+**Output:** Monitor, Printer, Speaker
+
+### Types of Computers
+- Supercomputer – Scientific research
+- Personal Computer (PC) – Individual use
+- Laptop – Portable computer
+- Smartphone – Handheld device
+
+### Internet Basics
+- **Internet** – Global network of computers
+- **LAN** – Network in a small area
+- **WAN** – Network over large areas
+- **Browser** – Used to visit websites (Chrome, Firefox)
+
+### Importance of ICT
+- Improves communication
+- Supports education and business
+- Provides access to information
+- Creates jobs in technology
+
+---
+
+## PART 2: INTRODUCTION TO WINDOWS OS
+
+### What is an Operating System?
+Software that manages computer hardware and allows users to interact
+with the computer. Examples: Windows, macOS, Linux, Android.
+
+### What is Windows OS?
+**Windows** is an OS made by **Microsoft**. It uses a
+**Graphical User Interface (GUI)** with icons and menus.
+
+### Windows Versions
+| Version | Year |
+|---------|------|
+| Windows XP | 2001 |
+| Windows 7 | 2009 |
+| Windows 10 | 2015 |
+| Windows 11 | 2021 |
+
+### Key Parts of Windows
+- **Desktop** – Main screen
+- **Start Menu** – Access programs and settings
+- **Taskbar** – Shows open apps at the bottom
+- **File Explorer** – Browse files and folders
+- **Recycle Bin** – Holds deleted files
+- **Task Manager** – Monitor running programs
+
+### Common Shortcuts
+| Shortcut | Action |
+|----------|--------|
+| Ctrl + C | Copy |
+| Ctrl + V | Paste |
+| Ctrl + Z | Undo |
+| Ctrl + S | Save |
+| Windows + E | Open File Explorer |
+| Windows + L | Lock Computer |
+| Alt + Tab | Switch Windows |
+
+### Windows Security
+- **Windows Defender** – Built-in antivirus
+- **Firewall** – Blocks unauthorized access
+- **Windows Update** – Keeps system secure
+
+---
+
+## Command Prompt (CMD)
+
+### What is Command Prompt?
+**Command Prompt (CMD)** is a text-based tool in Windows that allows
+users to type commands to perform tasks on the computer.
+
+### How to Open CMD
+- Press **Windows + R**, type **cmd**, press Enter
+- Or search **"Command Prompt"** in the Start Menu
+
+### Basic CMD Commands
+| Command | What it Does |
+|---------|-------------|
+| `ipconfig` | Shows your IP address and network info |
+| `ping google.com` | Tests internet connection |
+| `cls` | Clears the screen |
+| `dir` | Lists files in current folder |
+| `cd foldername` | Opens a folder |
+| `cd ..` | Goes back one folder |
+| `mkdir foldername` | Creates a new folder |
+| `del filename` | Deletes a file |
+| `shutdown /s` | Shuts down the computer |
+| `shutdown /r` | Restarts the computer |
+| `tasklist` | Shows all running programs |
+| `taskkill /IM name` | Stops a running program |
+| `sfc /scannow` | Scans and repairs system files |
+
+---
+
+## Windows Troubleshooting
+
+### What is Troubleshooting?
+Troubleshooting is the process of identifying and fixing problems
+on a computer or system.
+
+### Common Problems and Solutions
+
+| Problem | Solution |
+|---------|----------|
+| Computer is slow | Restart, close unused apps, check Task Manager |
+| No internet connection | Check Wi-Fi, restart router, run network troubleshooter |
+| App not responding | Open Task Manager → End Task |
+| Blue Screen of Death (BSOD) | Restart PC, update drivers, run `sfc /scannow` |
+| Computer won't turn on | Check power cable, hold power button 10 seconds |
+| Sound not working | Check volume, update audio drivers |
+| Windows update failing | Restart PC, check storage space, run Windows Update troubleshooter |
+| Virus or malware | Run Windows Defender scan, remove suspicious programs |
+
+### How to Open Troubleshooter in Windows
+- Go to **Settings → System → Troubleshoot**
+- Select the problem type and follow the steps
+
+### Useful Troubleshooting CMD Commands
+| Command | Purpose |
+|---------|---------|
+| `sfc /scannow` | Repairs corrupted system files |
+| `chkdsk` | Checks hard drive for errors |
+| `netsh winsock reset` | Fixes internet connection issues |
+| `ipconfig /flushdns` | Clears DNS cache |
+| `bootrec /fixmbr` | Fixes boot problems |
+
+---
+
+*ICT and Windows OS study notes.*
